@@ -1,4 +1,4 @@
-### Hi there 👋
+### Konichiwa 👋
 
 <!--
 **Xx-Ashutosh-xX/Xx-Ashutosh-xX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<br />
+
+
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
+
+<br />

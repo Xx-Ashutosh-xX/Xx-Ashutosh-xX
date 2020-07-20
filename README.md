@@ -21,7 +21,7 @@
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighborhood Professional XD)
+- ✨ Badminton (Neighbourhood Professional XD)
 
 </br>
 

@@ -1,5 +1,32 @@
-### Konichiwa 👋
+# Konichiwa 👋
 
+<div align="center">
+<img hight="200" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+
+# About ME 💬 :
+
+### - I'm 18 years  old Machine Learning Enthusiast from India.
+
+<img hight="200" width="400" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Learning :
+- ✨ Keras 
+- ✨ Neural Network Architectures
+
+### - Hobbies : 
+- ✨ Gaming
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighborhood Professional XD)
+
+</br>
+
+
+
+# Languages & Tools
 <!--
 **Xx-Ashutosh-xX/Xx-Ashutosh-xX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

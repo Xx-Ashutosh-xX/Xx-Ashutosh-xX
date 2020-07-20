@@ -1,20 +1,21 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="200" width="500" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
 
 # About ME 💬 :
 
-### - I'm 18 years  old Machine Learning Enthusiast from India.
+### - I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from India.
 
-<img hight="200" width="400" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="500" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Keras 
 - ✨ Neural Network Architectures
+- ✨ Machine Learning using AWS
 
 ### - Hobbies : 
 - ✨ Gaming

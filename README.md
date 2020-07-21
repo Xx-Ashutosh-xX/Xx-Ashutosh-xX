@@ -5,6 +5,9 @@
 </div>
 
 </br>
+</br>
+</br>
+
 
 # About ME 💬 :
 
@@ -23,6 +26,8 @@
 - ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)
 
+</br>
+</br>
 </br>
 
 
@@ -47,6 +52,8 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="230" hight="50">
 </p>
 </br>
+</br>
+</br>
 
 
 # How my Life has been till now :
@@ -56,6 +63,8 @@
 <img hight="300" width="400" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
 </p>
 
+</br>
+</br>
 </br>
 </br>
 </br>
@@ -103,6 +112,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+</br>
+</br>
+
 
 
 <p align="center" >  

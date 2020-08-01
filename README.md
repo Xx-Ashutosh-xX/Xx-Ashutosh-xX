@@ -18,7 +18,7 @@
 ### - Learning :
 - ✨ Keras 
 - ✨ Neural Network Architectures
-- ✨ Machine Learning using AWS
+- ✨ Deep Learning
 
 ### - Hobbies : 
 - ✨ Gaming

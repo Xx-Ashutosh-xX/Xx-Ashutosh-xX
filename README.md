@@ -16,9 +16,9 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Keras 
-- ✨ Neural Network Architectures
-- ✨ Deep Learning
+- ✨ Tensorflow
+- ✨ Deep Learning Architectures
+- ✨ Julia
 
 ### - Hobbies : 
 - ✨ Gaming
@@ -51,26 +51,6 @@
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
-</br>
-</br>
-</br>
-
-
-# Some Funny GIFs XD:
-<p>
-<img hight="350" width="350" align="left" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/35467.gif">
-<img hight="350" width="350" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/15682.gif">
-</p>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>

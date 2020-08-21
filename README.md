@@ -17,7 +17,7 @@
 
 ### - Learning :
 - ✨ Tensorflow
-- ✨ Deep Learning Architectures
+- ✨ Neural Style Transfer
 - ✨ Julia
 
 ### - Hobbies : 

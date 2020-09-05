@@ -18,7 +18,7 @@
 ### - Learning :
 - ✨ Tensorflow
 - ✨ Neural Style Transfer
-- ✨ Julia
+- ✨ C/C++
 
 ### - Hobbies : 
 - ✨ Gaming

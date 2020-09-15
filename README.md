@@ -17,6 +17,7 @@
 
 ### - Learning :
 - ✨ Data Science
+- ✨ Generative Adversarial Networks
 - ✨ Neural Style Transfer
 - ✨ C/C++
 - ✨ Financial Markets

@@ -16,14 +16,11 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
-- ✨ Data Science
+- ✨ Data Structures & Algorithms
 - ✨ Generative Adversarial Networks
-- ✨ Neural Style Transfer
-- ✨ C/C++
-- ✨ Financial Markets
 
 ### - Hobbies : 
-- ✨ Gaming
+- ✨ Gaming Addict
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Badminton (Neighbourhood Professional XD)

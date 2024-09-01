@@ -17,7 +17,9 @@
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ MCU & MPU
+- ✨ Deep learning
+- ✨ OpenCv
 
 ### - Hobbies : 
 - ✨ Gaming Addict

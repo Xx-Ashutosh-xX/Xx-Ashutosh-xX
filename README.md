@@ -93,6 +93,21 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=KlocSmith&&show_icons=true&theme=radical" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlocSmith&layout=compact&theme=tokyonight" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 *************
